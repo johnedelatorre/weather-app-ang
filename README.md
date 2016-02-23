@@ -15,6 +15,7 @@ $ bower install
 $ npm start 
 Points to Browser > http://localhost:8000/app/index.html
 
+Demo of working app: http://www.uppereastsidewebguy.com/jdweather-angular/app/index.html
 ```
 Partials:
 - Forecast
